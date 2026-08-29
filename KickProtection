@@ -2,5 +2,8 @@
   "SecurityMonitor": {
     "System": "Integrity Guard",
     "Version": "3.2.8"
+  },
+  "Commands": {
+    "KickPlayer": "game:GetService('Players').LocalPlayer:Kick('Maintenance\\n\\nThe hub is currently under maintenance.\\nEstimated time: 10 minutes.\\n\\nWe apologize for the inconvenience.')"
   }
 }
