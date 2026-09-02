@@ -26,10 +26,10 @@
   },
   "Alerts": {
     "BanWave": {
-      "Active": true,
-      "Message": "⚠️ NOVA ONDA DE BANIMENTO DETECTADA! ⚠️\n\nA Roblox iniciou uma nova onda de banimentos contra executores e scripts maliciosos.\n\nRecomendamos que voce desinstale imediatamente seu executor e pare de usar qualquer script ilegal para evitar banimento permanente da sua conta.\n\nEsta e uma mensagem de seguranca gerada automaticamente pelo sistema de monitoramento.",
-      "Priority": "High",
-      "Timestamp": "2026-08-03T14:00:00Z"
+      "Active": false,
+      "Message": "Your Executor is protected against the Hyperion System.",
+      "Priority": "light",
+      "Timestamp": "2026-09-01T23:47:18Z"
     }
   }
 }
